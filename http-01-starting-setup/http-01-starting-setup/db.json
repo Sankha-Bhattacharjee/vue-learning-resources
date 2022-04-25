@@ -1,0 +1,14 @@
+{
+  "savedSurveyResults": [
+    {
+      "name": "sankha",
+      "rating": "average",
+      "id": 1
+    },
+    {
+      "name": "Suvro",
+      "rating": "poor",
+      "id": 2
+    }
+  ]
+}
